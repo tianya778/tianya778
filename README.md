@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Blog posts
+# 博客文章
 <!-- BLOG-POST-LIST:START -->
 - [《软技能——代码之外的生存指南》不完全阅读笔记](https://blog.awumiao.org/1030/)
 - [工作和兴趣？](https://blog.awumiao.org/1016/)
