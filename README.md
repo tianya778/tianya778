@@ -79,11 +79,7 @@
 - [试着放过自己](https://blog.awumiao.org/962/)
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tianya778&&style=flat-square" align="center" />
