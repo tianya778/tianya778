@@ -10,4 +10,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-![snakes](https://raw.githubusercontent.com/tianya778/tianya778/64a55d19859577a01ec16a7ff9e2bc9bfabe60f6/github-contribution-grid-snake.svg)
+![snakes](https://raw.githubusercontent.com/tianya778/tianya778/output/github-contribution-grid-snake.svg)
