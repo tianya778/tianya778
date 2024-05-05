@@ -72,11 +72,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [五一志愿行](https://blog.awumiao.org/1046/)
 - [《少有人走的路——心智成熟之旅》与Gorkor来信](https://blog.awumiao.org/1033/)
 - [《软技能——代码之外的生存指南》不完全阅读笔记](https://blog.awumiao.org/1030/)
 - [工作和兴趣？](https://blog.awumiao.org/1016/)
 - [Hey , 涯。](https://blog.awumiao.org/988/)
-- [找点事干](https://blog.awumiao.org/975/)
 <!-- BLOG-POST-LIST:END -->  
 
 
